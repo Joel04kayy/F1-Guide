@@ -1,2 +1,3 @@
 # F1-Guide
-This is the first website I created after completing CIS*1050 Web Design &amp; Development. Inspired by my passion for the fast-paced sport, F1. This website is purely HTML and CSS, as it was to practice the basics of web development upon completion of the starter course on web design &amp; development.
+This was the first website I built and designed after completing CIS*1050 Web Design & Development. Inspired by my passion for Formula 1, it serves as a comprehensive guide for new fans, offering information on race structure, point systems, teams, and more. Built entirely with HTML and CSS, this site was a practice project to solidify my foundational web development skills after finishing the introductory course. I am excited to revisit this project in the future, applying the advanced skills I've acquired over the years to create a more modern and visually appealing user interface.
+
