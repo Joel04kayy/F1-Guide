@@ -1,3 +1,3 @@
-# (F1-Guide)[https://f1-guide.vercel.app/HomePage.html]
+# [F1-Guide](https://f1-guide.vercel.app/HomePage.html)
 This was the first website I built and designed after completing CIS*1050 Web Design & Development. Inspired by my passion for Formula 1, it serves as a comprehensive guide for new fans, offering information on race structure, point systems, teams, and more. Built entirely with HTML and CSS, this site was a practice project to solidify my foundational web development skills after finishing the introductory course. I am excited to revisit this project in the future, applying the advanced skills I've acquired over the years to create a more modern and visually appealing user interface.
 
